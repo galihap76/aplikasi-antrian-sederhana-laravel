@@ -1,0 +1,1 @@
+Bel aplikasi antrian sederhana.
