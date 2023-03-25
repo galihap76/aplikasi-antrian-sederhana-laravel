@@ -1,5 +1,5 @@
 # Aplikasi Antrian Sederhana Laravel
-Saya membangun ini hanya sekedar latihan dan sebagai contekan biar gak lupa untuk mengingat kode di masa yang akan datang. Saya push beberapa folder laravel yang penting saja untuk di simpan dalam repositori github. Saya menggunakan laravel versi 9 dan AJAX sebagai pengirimin ke server tanpa melakukan refresh halaman website.
+Saya membangun ini hanya sekedar latihan dan sebagai contekan biar gak lupa untuk mengingat kode di masa yang akan datang. Saya push beberapa folder laravel yang penting saja untuk di simpan dalam repositori github. Saya menggunakan laravel versi 9 dan AJAX sebagai pengirimin data ke server tanpa melakukan refresh halaman website.
 
 # Teknologi
 - Frontend : html, bootstrap, javascript 
