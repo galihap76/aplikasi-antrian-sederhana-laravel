@@ -10,7 +10,7 @@ Saya membangun ini hanya sekedar latihan dan sebagai contekan biar gak lupa untu
 - Sweetalert
 
 # Tangkapan Layar
-![Screenshot (285)](https://user-images.githubusercontent.com/83481679/227674619-51f8e352-7cc2-4901-a22b-a94b9d6ad3d6.png)
+![Screenshot (380)](https://user-images.githubusercontent.com/83481679/227674746-eebedcc5-baf6-418d-9e8d-90cde4b44759.png)
 
 ![Screenshot (286)](https://user-images.githubusercontent.com/83481679/227674625-a1074b4f-681c-4d1e-8276-47f54c05285c.png)
 
