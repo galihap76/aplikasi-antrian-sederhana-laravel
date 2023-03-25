@@ -17,3 +17,5 @@ Saya membangun ini hanya sekedar latihan dan sebagai contekan biar gak lupa untu
 ![Screenshot (287)](https://user-images.githubusercontent.com/83481679/227674626-4e111996-0fd9-4f68-9e04-5064fe3b7072.png)
 
 ![Screenshot (378)](https://user-images.githubusercontent.com/83481679/227674629-50386537-892c-43f1-a340-c5a569c3127d.png)
+
+Aplikasi masih banyak yang perlu di perbaiki. Saya akan update jika saya ada waktu untuk melakukan nya.
