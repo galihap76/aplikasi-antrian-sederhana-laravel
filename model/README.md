@@ -1,0 +1,1 @@
+Model aplikasi antrian sederhana.
