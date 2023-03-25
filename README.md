@@ -8,6 +8,7 @@ Saya membangun ini hanya sekedar latihan dan sebagai contekan biar gak lupa untu
 
 # Library
 - Sweetalert
+- ResponsiveVoice
 
 # Tangkapan Layar
 ![Screenshot (380)](https://user-images.githubusercontent.com/83481679/227674746-eebedcc5-baf6-418d-9e8d-90cde4b44759.png)
